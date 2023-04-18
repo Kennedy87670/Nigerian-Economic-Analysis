@@ -125,7 +125,7 @@ I created a dashboard using excel to show all of the analysis
 ![](Dashboard.png)
 
 ## Recommendation
-1.	GDP looks at the production level of an economy, By enhancing productivity of labour, through training and technological catch up, the GDP per capita of Nigeria could be improved
+1.	GDP looks at the production level of an economy, by enhancing productivity of labour, through training and technological catch up, the GDP per capita of Nigeria could be improved
 2. Our level of import is higher than our level of exports, so we need to Increases in capital goods, labor force, technology, and human capital
 3.	Encourage foreign investment: Nigeria has a large and growing population, which presents an attractive market for foreign investors. To attract foreign investment, the Nigerian government can create an enabling business environment by improving infrastructure, streamlining bureaucratic procedures, and providing incentives for foreign investors.
 4.	Enhance trade relations: Improving trade relations with other countries can help increase exports and create new markets for Nigerian products. The government can work to negotiate favorable trade agreements, reduce trade barriers, and promote Nigerian goods and services abroad.
